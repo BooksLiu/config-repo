@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: redis-cluster-broswer
+
+server:
+	port: 8888
+	path: /redis-cluster-broswer
